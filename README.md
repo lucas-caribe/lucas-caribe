@@ -22,8 +22,12 @@ Front-end developer, soon-to-be a full stack, currently studying at [Trybe](http
 </h2>
 
 <div>
-  <div>
+  <div align="center">
     <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas-caribe&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
     <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-caribe&layout=compact&langs_count=7&theme=react" />
   </div>
+</div>
+
+<div align="center">
+  <img align="center" alt="snake-game" src="https://github.com/lucas-caribe/lucas-caribe/blob/output/github-contribution-grid-snake.svg" />
 </div>
