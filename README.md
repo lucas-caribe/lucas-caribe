@@ -1,16 +1,7 @@
-## Hi! I'm Lucas
+## Hi 👋! I'm Lucas
 Front-end developer, soon-to-be a full stack, currently studying at [Trybe](https://betrybe.com).
 
-<div>
-  <div>
-    <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas-caribe&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-    <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-caribe&layout=compact&langs_count=7&theme=react" />
-	  
-
-  </div>
-</div>
-
-## Skills
+## :rocket: 💻 Technologies and Tools
 <div>
   <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
   <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
@@ -23,4 +14,16 @@ Front-end developer, soon-to-be a full stack, currently studying at [Trybe](http
   <img align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" />
   <img align="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
   <img align="center" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" />
+</div>
+
+<h2>
+  <img alt="stats" src="https://user-images.githubusercontent.com/10157033/139519259-51bd8a1f-c0fc-48e2-94d0-10d1c09fde84.png" width="20px" />
+  Github Stats
+</h2>
+
+<div>
+  <div>
+    <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas-caribe&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+    <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-caribe&layout=compact&langs_count=7&theme=react" />
+  </div>
 </div>
