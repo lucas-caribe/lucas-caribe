@@ -1,9 +1,3 @@
-<style>
-  .markdown a {
-    text-decoration: none;
-  }
-</style>
-
 ## Hi 👋! I'm Lucas
 Front-end developer, soon-to-be a full stack, currently studying at [Trybe](https://betrybe.com).
 
