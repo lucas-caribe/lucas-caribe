@@ -1,3 +1,9 @@
+<style>
+  .markdown a {
+    text-decoration: none;
+  }
+</style>
+
 ## Hi 👋! I'm Lucas
 Front-end developer, soon-to-be a full stack, currently studying at [Trybe](https://betrybe.com).
 
@@ -33,3 +39,10 @@ Front-end developer, soon-to-be a full stack, currently studying at [Trybe](http
 <div align="center">
   <img align="center" alt="snake-game" src="https://github.com/lucas-caribe/lucas-caribe/blob/output/github-contribution-grid-snake.svg" />
 </div>
+
+##
+
+
+  [<img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucascaribe/)
+  [<img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:lucasmoc47@gmail.com)
+
