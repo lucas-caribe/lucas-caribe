@@ -1,5 +1,5 @@
 ## Hi 👋! I'm Lucas
-Front-end developer, soon-to-be a full stack, currently studying at [Trybe](https://betrybe.com).
+Full stack developer at [TSL](https://tsl.io/).
 
 ## :rocket: 💻 Technologies and Tools
 <div>
