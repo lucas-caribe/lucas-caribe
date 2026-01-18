@@ -18,22 +18,6 @@ Full stack developer at [TSL](https://tsl.io/).
   <img align="center" alt="cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" />
 </div>
 
-<h2>
-  <img alt="stats" src="https://user-images.githubusercontent.com/10157033/139519259-51bd8a1f-c0fc-48e2-94d0-10d1c09fde84.png" width="20px" />
-  Github Stats
-</h2>
-
-<div>
-  <div align="center">
-    <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas-caribe&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-    <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-caribe&layout=compact&langs_count=7&theme=react" />
-  </div>
-</div>
-
-<div align="center">
-  <img align="center" alt="snake-game" src="https://github.com/lucas-caribe/lucas-caribe/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
 ##
 
 
